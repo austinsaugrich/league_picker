@@ -1,0 +1,1136 @@
+[
+    {
+        "name": "Aatrox",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Ahri",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Akali",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Akshan",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Alistar",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Amumu",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Anivia",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Annie",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Aphelios",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Ashe",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Aurelion Sol",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Azir",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Bard",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Bel'Veth",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Blitzcrank",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Brand",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Braum",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Caitlyn",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Camille",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Cassiopeia",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Cho'Gath",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Corki",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Darius",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Diana",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Draven",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Dr. Mundo",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Ekko",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Elise",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Evelynn",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Ezreal",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Fiddlesticks",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Fiora",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Fizz",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Galio",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Gangplank",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Garen",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Gnar",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Gragas",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Graves",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Gwen",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Hecarim",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Heimerdinger",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Illaoi",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Irelia",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Ivern",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Janna",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Jarvan IV",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Jax",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Jayce",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Jhin",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Jinx",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Kai'Sa",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Kalista",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Karma",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Karthus",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Kassadin",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Katarina",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Kayle",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Kayn",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Kennen",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Kha'Zix",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Kindred",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Kled",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Kog'Maw",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "K'Sante",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "LeBlanc",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Lee Sin",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Leona",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Lillia",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Lissandra",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Lucian",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Lulu",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Lux",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Malphite",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Malzahar",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Maokai",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Master Yi",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Miss Fortune",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Wukong",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Mordekaiser",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Morgana",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Nami",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Nasus",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Nautilus",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Neeko",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Nidalee",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Nilah",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Nocturne",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Nunu & Willump",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Olaf",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Orianna",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Ornn",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Pantheon",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Poppy",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Pyke",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Qiyana",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Quinn",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Rakan",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Rammus",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Rek'Sai",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Rell",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Renata Glasc",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Renekton",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Rengar",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Riven",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Rumble",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Ryze",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Samira",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Sejuani",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Senna",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Seraphine",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Sett",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Shaco",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Shen",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Shyvana",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Singed",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Sion",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Sivir",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Skarner",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Sona",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Soraka",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Swain",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Sylas",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Syndra",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Tahm Kench",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Taliyah",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Talon",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Taric",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Teemo",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Thresh",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Tristana",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Trundle",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Tryndamere",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Twisted Fate",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Twitch",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Udyr",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Urgot",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Varus",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Vayne",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Veigar",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Vel'Koz",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Vex",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Vi",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Viego",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Viktor",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Vladimir",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Volibear",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Warwick",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Xayah",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Xerath",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Xin Zhao",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Yasuo",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Yone",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Yorick",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Yuumi",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Zac",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Zed",
+        "attack": "",
+        "mana": false,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Zeri",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Ziggs",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Zilean",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Zoe",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    },
+    {
+        "name": "Zyra",
+        "attack": "",
+        "mana": true,
+        "lane": [],
+        "damagetype": ""
+    }
+]
