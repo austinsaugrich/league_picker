@@ -1132,5 +1132,19 @@
         "mana": true,
         "lane": ["Mid", "Support"],
         "damagetype": "AP"
+    },
+    {
+        "name": "Naafiri",
+        "attack": "Melee",
+        "mana": true,
+        "lane": ["Mid", "Jungle"],
+        "damagetype": "AD"
+    },
+    {
+        "name": "Briar",
+        "attack": "Melee",
+        "mana": true,
+        "lane": ["Jungle"],
+        "damagetype": "AD"
     }
 ]
