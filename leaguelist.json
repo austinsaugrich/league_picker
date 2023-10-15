@@ -1146,5 +1146,12 @@
         "mana": true,
         "lane": ["Jungle"],
         "damagetype": "AD"
+    },
+    {
+        "name": "Milo",
+        "attack": "Ranged",
+        "mana": true,
+        "lane": ["Support"],
+        "damagetype": "AP"
     }
 ]
