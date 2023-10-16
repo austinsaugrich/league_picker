@@ -43,3 +43,4 @@ def load_champ():
 load_champ()
 id = random_champ()
 print(champions)
+
