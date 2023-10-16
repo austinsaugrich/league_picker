@@ -214,7 +214,7 @@
         "attack": "Ranged",
         "mana": true,
         "lane": ["Jungle"],
-        "damagetype": "AD"
+        "damagetype": "AP"
     },
     {
         "name": "Fiora",
